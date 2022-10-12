@@ -4,13 +4,23 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Application Name
+Serener
 
-A few resources to get you started if this is your first Flutter project:
+## Description
+Bloodline aims to remove obstacles in checking, receiving and donating matching blood with little or no hassle and this process is done using CRUD operation in mongo database. Built with Dart programming language and flutter framework. Featured Dio and Http for network requests, Fluttertoast for toast messages e.t.c 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Framework Used
+Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Programming language Used
+Dart
+
+## Dependencies
+
+ cupertino_icons: ^1.0.2
+ google_fonts: ^3.0.1
+ http: ^0.13.5
+
+## All Available Items
+Request for blood(getList), Donate blood(post)
