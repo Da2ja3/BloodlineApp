@@ -19,8 +19,13 @@ Dart
 ## Dependencies
 
  cupertino_icons: ^1.0.2
- google_fonts: ^3.0.1
- http: ^0.13.5
+  dio: ^4.0.6
+  device_preview: ^1.0.0
+  flutter_polygon_clipper: ^1.0.4
+  http: ^0.13.4
+  tuple: ^2.0.0
+  fluttertoast: ^8.0.9
+  awesome_dialog: ^2.1.0
 
 ## All Available Items
 Request for blood(getList), Donate blood(post)
